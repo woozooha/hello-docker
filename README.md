@@ -1,6 +1,6 @@
-# hello-docker
+# Docker sample
 
-## Build image
+## docker build
 ```
 $ docker build -t hello-docker .
 ```
